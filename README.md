@@ -5,7 +5,6 @@ I care deeply about clean architecture, maintainable code, and understanding *wh
 
 
 ## 🧠 About Me
-
 - Backend Developer specialized in **PHP & Laravel**
 - Building and continuously improving a real-world **Ecommerce / POS-like system**
 - Focused on core software engineering concepts and backend architecture
@@ -13,7 +12,6 @@ I care deeply about clean architecture, maintainable code, and understanding *wh
 
 
 ## 🏗 How I Think About Software
-
 I approach backend development as a system, not just a set of features:
 - Clear separation of concerns
 - Business logic before UI
@@ -22,7 +20,6 @@ I approach backend development as a system, not just a set of features:
 
 
 ## 🧩 Laravel Experience
-
 I work deeply with Laravel internals and ecosystem, including:
 - Authentication & Authorization (Sanctum, Fortify, Policies, Multi-Guard, 2FA)
 - Queues, Jobs, Events & Observers
