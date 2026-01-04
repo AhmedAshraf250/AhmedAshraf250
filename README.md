@@ -5,6 +5,7 @@ I care deeply about clean architecture, maintainable code, and understanding *wh
 
 
 ## 🧠 About Me
+
 - Backend Developer specialized in **PHP & Laravel**
 - Building and continuously improving a real-world **Ecommerce / POS-like system**
 - Focused on core software engineering concepts and backend architecture
@@ -20,6 +21,7 @@ I approach backend development as a system, not just a set of features:
 
 
 ## 🧩 Laravel Experience
+
 I work deeply with Laravel internals and ecosystem, including:
 - Authentication & Authorization (Sanctum, Fortify, Policies, Multi-Guard, 2FA)
 - Queues, Jobs, Events & Observers
@@ -44,9 +46,27 @@ I work deeply with Laravel internals and ecosystem, including:
 - Realtime delivery tracking using Pusher broadcasting
 
 
-## 🛠 Tech Stack
+## 🛠 Backend Stack
 
-PHP • Laravel • MySQL • Docker • Git • Stripe • Pusher
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat&logo=pusher&logoColor=white)
+
+
+## 🎨 Supporting Web Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Ajax](https://img.shields.io/badge/Ajax-0078D7?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
 
 ## 🚀 Currently
 
